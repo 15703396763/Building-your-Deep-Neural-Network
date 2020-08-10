@@ -1,2 +1,2 @@
-# Building-your-Deep-Neural-Network
-Building your Deep Neural Network-Step by Step
+# Building-Deep-Neural-Network
+Building Deep Neural Network-Step by Step
